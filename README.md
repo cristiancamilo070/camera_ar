@@ -4,31 +4,31 @@ GitHub Commit History is a project with both frontend and backend components. Th
 
 <p align="center">
   <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/stars/tu-usuario/tu-repo.svg?style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/cristiancamilo070/camera_ar.svg?style=social" alt="GitHub Stars" />
   </a>
   <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/forks/tu-usuario/tu-repo.svg?style=social" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/forks/cristiancamilo070/camera_ar.svg?style=social" alt="GitHub Forks" />
   </a>
   <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/watchers/tu-usuario/tu-repo.svg?style=social" alt="GitHub Watchers" />
+    <img src="https://img.shields.io/github/watchers/cristiancamilo070/camera_ar.svg?style=social" alt="GitHub Watchers" />
   </a>
   <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/languages/count/tu-usuario/tu-repo.svg" alt="GitHub Languages Count" />
+    <img src="https://img.shields.io/github/languages/count/cristiancamilo070/camera_ar.svg" alt="GitHub Languages Count" />
   </a>
   <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/languages/top/tu-usuario/tu-repo.svg" alt="GitHub Top Language" />
+    <img src="https://img.shields.io/github/languages/top/cristiancamilo070/camera_ar.svg" alt="GitHub Top Language" />
   </a>
   <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/languages/code-size/tu-usuario/tu-repo.svg" alt="GitHub Code Size" />
+    <img src="https://img.shields.io/github/languages/code-size/cristiancamilo070/camera_ar.svg" alt="GitHub Code Size" />
   </a>
   <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/repo-size/tu-usuario/tu-repo.svg" alt="GitHub Repo Size" />
+    <img src="https://img.shields.io/github/repo-size/cristiancamilo070/camera_ar.svg" alt="GitHub Repo Size" />
   </a>
   <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/tu-usuario/tu-repo.svg" alt="GitHub Last Commit" />
+    <img src="https://img.shields.io/github/last-commit/cristiancamilo070/camera_ar.svg" alt="GitHub Last Commit" />
   </a>
   <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/contributors/tu-usuario/tu-repo.svg" alt="GitHub Contributors" />
+    <img src="https://img.shields.io/github/contributors/cristiancamilo070/camera_ar.svg" alt="GitHub Contributors" />
   </a>
 </p>
 
