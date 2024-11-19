@@ -1,37 +1,3 @@
-# GitHub Commit History
-
-GitHub Commit History is a project with both frontend and backend components. This section provides details about the both.
-
-<p align="center">
-  <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/stars/cristiancamilo070/camera_ar.svg?style=social" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/forks/cristiancamilo070/camera_ar.svg?style=social" alt="GitHub Forks" />
-  </a>
-  <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/watchers/cristiancamilo070/camera_ar.svg?style=social" alt="GitHub Watchers" />
-  </a>
-  <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/languages/count/cristiancamilo070/camera_ar.svg" alt="GitHub Languages Count" />
-  </a>
-  <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/languages/top/cristiancamilo070/camera_ar.svg" alt="GitHub Top Language" />
-  </a>
-  <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/languages/code-size/cristiancamilo070/camera_ar.svg" alt="GitHub Code Size" />
-  </a>
-  <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/repo-size/cristiancamilo070/camera_ar.svg" alt="GitHub Repo Size" />
-  </a>
-  <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/cristiancamilo070/camera_ar.svg" alt="GitHub Last Commit" />
-  </a>
-  <a href="https://github.com/cristiancamilo070/camera_ar" target="_blank">
-    <img src="https://img.shields.io/github/contributors/cristiancamilo070/camera_ar.svg" alt="GitHub Contributors" />
-  </a>
-</p>
-
 ## Running the Flutter Project Locally
 
 To run this Flutter project locally, follow these steps:
