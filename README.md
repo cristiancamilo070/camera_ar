@@ -56,20 +56,20 @@ flutter run
 # Frontend Overview
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/1.jpg" alt="Screenshot 1" width="280" height="350">
-  <img src="assets/screenshots/2.jpg" alt="Screenshot 2" width="280" height="350">
+  <img src="assets/screenshots/1.jpg" alt="Screenshot 1" width="180" height="350">
+  <img src="assets/screenshots/2.jpg" alt="Screenshot 2" width="180" height="350">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/3.jpg" alt="Screenshot 1" width="280" height="350">
-  <img src="assets/screenshots/4.jpg" alt="Screenshot 2" width="280" height="350">
+  <img src="assets/screenshots/3.jpg" alt="Screenshot 1" width="180" height="350">
+  <img src="assets/screenshots/4.jpg" alt="Screenshot 2" width="180" height="350">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/5.jpg" alt="Screenshot 1" width="280" height="350">
-  <img src="assets/screenshots/6.jpg" alt="Screenshot 2" width="280" height="350">
+  <img src="assets/screenshots/5.jpg" alt="Screenshot 1" width="180" height="350">
+  <img src="assets/screenshots/6.jpg" alt="Screenshot 2" width="180" height="350">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/7.jpg" alt="Screenshot 2" width="280" height="350">
- <img src="assets/screenshots/8.jpg" alt="Screenshot 2" width="280" height="350">
+  <img src="assets/screenshots/7.jpg" alt="Screenshot 2" width="180" height="350">
+ <img src="assets/screenshots/8.jpg" alt="Screenshot 2" width="180" height="350">
   >
 </div>
 
