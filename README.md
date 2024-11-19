@@ -56,19 +56,21 @@ flutter run
 # Frontend Overview
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/0.png" alt="Screenshot 1" width="280" height="350">
-  <img src="assets/screenshots/1.png" alt="Screenshot 2" width="280" height="350">
+  <img src="assets/screenshots/1.jpg" alt="Screenshot 1" width="280" height="350">
+  <img src="assets/screenshots/2.jpg" alt="Screenshot 2" width="280" height="350">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/2.png" alt="Screenshot 1" width="280" height="350">
-  <img src="assets/screenshots/3.png" alt="Screenshot 2" width="280" height="350">
+  <img src="assets/screenshots/3.jpg" alt="Screenshot 1" width="280" height="350">
+  <img src="assets/screenshots/4.jpg" alt="Screenshot 2" width="280" height="350">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/4.png" alt="Screenshot 1" width="280" height="350">
-  <img src="assets/screenshots/5.png" alt="Screenshot 2" width="280" height="350">
+  <img src="assets/screenshots/5.jpg" alt="Screenshot 1" width="280" height="350">
+  <img src="assets/screenshots/6.jpg" alt="Screenshot 2" width="280" height="350">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/6.png" alt="Screenshot 2" width="280" height="350">
+  <img src="assets/screenshots/7.jpg" alt="Screenshot 2" width="280" height="350">
+ <img src="assets/screenshots/8.jpg" alt="Screenshot 2" width="280" height="350">
+  >
 </div>
 
 ## Clean Architecture and Code
@@ -82,23 +84,6 @@ This Flutter frontend follows the principles of Clean Architecture and Clean Cod
     •	Object Interaction: Users can interact with the cube, rotating it using buttons or moving it by tapping another area on the plane.
     •	Clean Architecture: The project is built following the principles of Clean Architecture, ensuring a modular and maintainable codebase.
     •	Test Coverage: Basic unit and widget tests have been implemented to validate core functionalities.
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="assets/1.jpg" alt="Screenshot 1" width="280" height="350">
-  <img src="assets/2.jpg" alt="Screenshot 2" width="280" height="350">
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="assets/3.jpg" alt="Screenshot 3" width="280" height="350">
-  <img src="assets/4.jpg" alt="Screenshot 4" width="280" height="350">
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="assets/5.jpg" alt="Screenshot 5" width="280" height="350">
-  <img src="assets/6.jpg" alt="Screenshot 6" width="280" height="350">
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="assets/7.jpg" alt="Screenshot 7" width="280" height="350">
-  <img src="assets/8.jpg" alt="Screenshot 8" width="280" height="350">
-</div>
 
 ### Splash Screen
 
